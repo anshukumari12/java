@@ -22,6 +22,6 @@ public static void main(String args[])
 AreaOfShape obj =new AreaOfShape();
 obj.area(4);
 obj.area(5,3);
-obj.area(2,3);
+obj.area(2.0);
 }
 }
